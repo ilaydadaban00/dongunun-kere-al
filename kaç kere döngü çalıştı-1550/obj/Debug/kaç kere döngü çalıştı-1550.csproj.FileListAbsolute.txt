@@ -1,0 +1,10 @@
+C:\Users\ben\source\repos\kaç kere döngü çalıştı-1550\kaç kere döngü çalıştı-1550\bin\Debug\kaç kere döngü çalıştı-1550.exe.config
+C:\Users\ben\source\repos\kaç kere döngü çalıştı-1550\kaç kere döngü çalıştı-1550\bin\Debug\kaç kere döngü çalıştı-1550.exe
+C:\Users\ben\source\repos\kaç kere döngü çalıştı-1550\kaç kere döngü çalıştı-1550\bin\Debug\kaç kere döngü çalıştı-1550.pdb
+C:\Users\ben\source\repos\kaç kere döngü çalıştı-1550\kaç kere döngü çalıştı-1550\obj\Debug\kaç kere döngü çalıştı-1550.csproj.AssemblyReference.cache
+C:\Users\ben\source\repos\kaç kere döngü çalıştı-1550\kaç kere döngü çalıştı-1550\obj\Debug\kaç_kere_döngü_çalıştı_1550.Form1.resources
+C:\Users\ben\source\repos\kaç kere döngü çalıştı-1550\kaç kere döngü çalıştı-1550\obj\Debug\kaç_kere_döngü_çalıştı_1550.Properties.Resources.resources
+C:\Users\ben\source\repos\kaç kere döngü çalıştı-1550\kaç kere döngü çalıştı-1550\obj\Debug\kaç kere döngü çalıştı-1550.csproj.GenerateResource.cache
+C:\Users\ben\source\repos\kaç kere döngü çalıştı-1550\kaç kere döngü çalıştı-1550\obj\Debug\kaç kere döngü çalıştı-1550.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\kaç kere döngü çalıştı-1550\kaç kere döngü çalıştı-1550\obj\Debug\kaç kere döngü çalıştı-1550.exe
+C:\Users\ben\source\repos\kaç kere döngü çalıştı-1550\kaç kere döngü çalıştı-1550\obj\Debug\kaç kere döngü çalıştı-1550.pdb
